@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:12:32:12 +0530] "GET /FraudApps/assets/css/patros.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:12:32:12 +0530] "GET /FraudApps/assets/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:12:32:12 +0530] "GET /FraudApps/assets/js/bootstrap.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:12:32:12 +0530] "GET /FraudApps/assets/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:12:32:12 +0530] "GET /FraudApps/assets/js/jquery.quicksand.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:12:32:12 +0530] "GET /FraudApps/assets/js/jquery.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:12:32:12 +0530] "GET /FraudApps/assets/images/admin.jpg HTTP/1.1" 304 -

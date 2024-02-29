@@ -1,0 +1,205 @@
+
+Mar 21, 2023 14:29:21.50 NEW SESSION
+Mar 21, 2023 14:29:21.50 [16336:7824:0321/142921.496:ERROR:backend_impl.cc(1040)] Critical error found -8
+Mar 21, 2023 14:29:23.26 [16336:16044:0321/142923.261:ERROR:device_event_log_impl.cc(222)] [14:29:23.261] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 14:29:24.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2023 15:11:47.51 [8716:10116:0321/151147.512:ERROR:device_event_log_impl.cc(222)] [15:11:47.512] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 15:11:48.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2023 15:37:24.33 [16420:15632:0321/153724.335:ERROR:device_event_log_impl.cc(222)] [15:37:24.334] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 15:37:24.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2023 15:46:01.32 [16420:8212:0321/154601.325:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 21, 2023 15:46:06.86 [16420:8212:0321/154606.860:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 21, 2023 15:47:53.00 [16420:8212:0321/154753.001:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 21, 2023 19:59:54.18 [16420:8212:0321/195954.136:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2023 19:59:54.23 [16420:6836:0321/195954.236:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 21, 2023 19:59:56.15 [16420:8212:0321/195956.155:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 20:01:09.24 [16420:14420:0321/200109.247:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 21, 2023 20:01:47.52 [16420:15632:0321/200147.529:ERROR:device_event_log_impl.cc(222)] [20:01:47.531] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 20:03:01.75 [16420:14420:0321/200301.758:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 21, 2023 20:03:29.64 [16420:8212:0321/200329.645:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2023 20:04:35.62 [16420:8212:0321/200435.621:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 20:22:16.69 [16420:8212:0321/202216.693:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 21, 2023 22:32:24.40 [16420:8212:0321/223224.267:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 21, 2023 22:32:26.56 [16420:8212:0321/223226.562:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 23:43:43.95 [16420:8212:0321/234343.952:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 01:44:28.00 [16420:8212:0322/014428.001:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 22, 2023 13:29:10.87 [16420:8212:0322/132910.879:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 13:54:24.42 [16420:8212:0322/135424.423:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 14:11:10.36 [16420:8212:0322/141110.366:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 15:10:53.23 [16420:8212:0322/151053.239:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -15
+Mar 22, 2023 15:11:59.42 [16420:8212:0322/151159.418:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 15:12:39.53 [16420:15632:0322/151239.533:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 22, 2023 15:18:38.26 [16420:8212:0322/151838.269:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 15:36:18.19 [16420:8212:0322/153227.391:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 16:17:04.25 [16420:8212:0322/161704.255:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 17:12:32.78 [16420:8212:0322/171232.788:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 23, 2023 24:00:11.37 [16420:15632:0323/000011.373:ERROR:device_event_log_impl.cc(222)] [00:00:11.083] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 23, 2023 24:00:13.76 [16420:8212:0323/000013.763:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 23, 2023 24:00:13.77 [16420:8212:0323/000013.763:ERROR:checkin_request.cc(241)] Check-in request got net error: -105
+Mar 23, 2023 24:00:13.81 [16420:11732:0323/000013.773:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 23, 2023 24:10:56.54 [16420:8212:0323/001056.545:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 03:02:58.82 [16420:8212:0323/030258.824:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -15
+Mar 23, 2023 16:10:41.11 [16420:8212:0323/161041.116:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2023 16:10:41.12 [16420:15736:0323/161041.126:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 23, 2023 16:51:18.94 [16420:8212:0323/165118.942:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 16:51:23.95 [16420:8212:0323/165123.951:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 20:21:56.17 [16420:8212:0323/202156.172:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 20:22:00.37 [16420:8212:0323/202200.373:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 23, 2023 20:22:00.38 [16420:6616:0323/202200.380:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 23, 2023 20:22:09.47 [16420:8212:0323/202209.475:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 23, 2023 20:22:09.52 [16420:7192:0323/202209.523:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 23, 2023 20:27:55.67 [16420:15632:0323/202755.679:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 23, 2023 20:30:12.77 [16420:15632:0323/203012.770:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 23, 2023 20:56:29.81 [16420:15632:0323/205629.818:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 23, 2023 21:07:50.90 [16420:15632:0323/210750.906:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 23, 2023 21:15:25.71 [16420:8212:0323/211525.714:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 21:15:26.95 [16420:8212:0323/211526.953:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 21:35:34.19 [16420:8212:0323/213534.193:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 21:40:47.91 [16420:8212:0323/214047.914:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 23, 2023 21:56:38.81 [16420:8212:0323/215638.813:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 22:12:04.88 [16420:8212:0323/221204.885:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 23:22:45.97 [16420:8212:0323/232245.974:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 23, 2023 23:22:48.06 [16420:8212:0323/232248.064:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2023 23:23:43.67 [16420:8212:0323/232343.676:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2023 23:25:07.77 [16420:8212:0323/232507.774:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 23, 2023 23:30:14.59 [16420:8212:0323/233014.596:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 26, 2023 21:04:46.02 [14544:22084:0326/210446.020:ERROR:device_event_log_impl.cc(222)] [21:04:46.016] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 26, 2023 21:04:46.93 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2023 21:30:32.15 [22564:17776:0326/213032.158:ERROR:device_event_log_impl.cc(222)] [21:30:32.158] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 26, 2023 21:30:32.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2023 21:31:19.68 [16616:13324:0326/213119.682:ERROR:device_event_log_impl.cc(222)] [21:31:19.686] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 26, 2023 21:31:19.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2023 21:33:14.96 [16616:8672:0326/213314.964:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for www.scscargo.com failed:
+Mar 26, 2023 21:33:14.96 ----- Certificate i=0 (CN=scscargo.com,OU=Domain Control Validated) -----
+Mar 26, 2023 21:33:14.96 ERROR: Time is after notAfter
+Mar 26, 2023 21:33:14.96 
+Mar 26, 2023 21:33:14.96 
+Mar 26, 2023 21:34:33.68 [22732:13736:0326/213433.689:ERROR:device_event_log_impl.cc(222)] [21:34:33.683] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 26, 2023 21:34:33.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2023 21:39:06.81 [14988:3848:0326/213906.814:ERROR:device_event_log_impl.cc(222)] [21:39:06.810] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 26, 2023 21:39:07.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2023 21:40:21.98 [8796:17648:0326/214021.984:ERROR:device_event_log_impl.cc(222)] [21:40:21.988] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 26, 2023 21:40:22.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2023 21:40:41.84 [8720:1808:0326/214041.840:ERROR:device_event_log_impl.cc(222)] [21:40:41.839] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 26, 2023 21:40:42.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2023 21:46:16.94 [8720:20564:0326/214616.940:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 26, 2023 22:17:09.46 [8720:20564:0326/221709.460:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 26, 2023 22:17:46.50 [8720:20564:0326/221746.505:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 26, 2023 22:18:48.15 [8720:1808:0326/221848.156:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 26, 2023 22:36:52.28 [8720:20564:0326/223652.287:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 26, 2023 22:52:22.74 [8720:20564:0326/225222.744:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 26, 2023 23:18:55.81 [8720:20564:0326/231855.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 26, 2023 23:19:06.07 [8720:1808:0326/231906.072:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 27, 2023 24:04:29.04 [8720:20564:0327/000429.045:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 24:34:32.36 [8720:20564:0327/003432.367:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 01:08:42.43 [8720:20564:0327/010842.435:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 01:52:12.45 [8720:20564:0327/015212.456:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 02:10:37.79 [8720:20564:0327/021037.791:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+
+Mar 27, 2023 10:56:20.61 NEW SESSION
+Mar 27, 2023 10:56:20.61 [692:19268:0327/105620.611:ERROR:device_event_log_impl.cc(222)] [10:56:20.610] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 10:56:22.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 10:58:50.19 [17100:10964:0327/105850.194:ERROR:device_event_log_impl.cc(222)] [10:58:50.196] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 10:58:50.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 10:59:01.59 [2900:7036:0327/105901.597:ERROR:device_event_log_impl.cc(222)] [10:59:01.599] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 10:59:01.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 10:59:03.28 [2900:4684:0327/105903.288:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 27, 2023 10:59:41.37 [15128:19972:0327/105941.372:ERROR:device_event_log_impl.cc(222)] [10:59:41.373] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 10:59:41.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 10:59:48.60 [20568:13188:0327/105948.608:ERROR:device_event_log_impl.cc(222)] [10:59:48.607] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 11:00:44.96 [21588:1920:0327/110044.962:ERROR:device_event_log_impl.cc(222)] [11:00:44.952] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 11:00:45.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 11:07:34.21 [21588:1920:0327/110734.219:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 27, 2023 11:30:34.32 [7852:21208:0327/113034.326:ERROR:device_event_log_impl.cc(222)] [11:30:34.326] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 11:30:34.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 11:40:15.55 [7852:20788:0327/114015.555:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 12:00:19.39 [7852:20788:0327/120019.390:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 27, 2023 13:17:54.71 [7852:20788:0327/131754.710:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 13:17:56.67 [7852:20788:0327/131756.679:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 13:19:48.04 [7852:20788:0327/131948.040:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 13:24:00.79 [7852:20788:0327/132400.791:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 13:24:13.47 [7852:20788:0327/132413.475:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 13:24:14.94 [7852:21208:0327/132414.946:ERROR:device_event_log_impl.cc(222)] [13:24:14.946] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 27, 2023 13:24:24.78 [7852:20788:0327/132424.787:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 13:24:27.27 [7852:20788:0327/132427.273:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 13:25:28.32 [7852:20788:0327/132528.325:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 14:41:35.04 [7852:20788:0327/144135.049:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 14:42:05.26 [7852:20788:0327/144205.262:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 14:42:49.40 [7852:20788:0327/144249.407:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 14:44:13.93 [7852:20788:0327/144413.928:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 14:53:08.14 [7852:20788:0327/145308.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 14:54:20.75 [7852:21208:0327/145420.745:ERROR:device_event_log_impl.cc(222)] [14:54:20.750] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 27, 2023 15:07:08.26 [7852:20788:0327/150708.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:11:18.24 [7852:20788:0327/151118.241:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:11:41.24 [7852:20788:0327/151141.239:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:12:15.74 [7852:20788:0327/151215.739:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:13:11.74 [7852:20788:0327/151311.740:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:14:10.23 [7852:20788:0327/151410.238:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 15:14:51.24 [7852:20788:0327/151451.240:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:19:17.24 [7852:20788:0327/151917.248:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:19:51.74 [7852:20788:0327/151951.745:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:23:59.75 [7852:20788:0327/152359.750:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:37:00.25 [7852:20788:0327/153700.249:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:38:08.74 [7852:20788:0327/153808.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:38:14.24 [7852:20788:0327/153814.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:41:50.74 [7852:20788:0327/154150.747:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 27, 2023 15:43:18.71 [7852:20788:0327/154318.711:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 15:45:25.41 [7852:20788:0327/154525.413:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 15:46:21.99 [7852:20788:0327/154621.993:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 15:47:48.76 [7852:20788:0327/154748.763:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 15:51:34.15 [7852:20788:0327/155134.151:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 15:57:33.18 [7852:20788:0327/155733.181:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 16:07:33.19 [7852:20788:0327/160733.191:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 16:17:33.20 [7852:20788:0327/161733.200:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 16:27:33.20 [7852:20788:0327/162733.209:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 18:56:39.80 [7852:20788:0327/185639.806:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 20:38:35.34 [7852:20788:0327/203835.341:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 27, 2023 20:38:35.34 [7852:13164:0327/203835.342:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 27, 2023 20:41:21.69 [7852:21208:0327/204121.693:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 27, 2023 21:07:14.19 [7852:20788:0327/210714.196:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 27, 2023 21:13:31.88 [7852:20788:0327/211331.885:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Mar 27, 2023 21:20:57.03 [7852:21208:0327/212057.022:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 27, 2023 22:06:05.72 [7852:20788:0327/220605.704:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 24:08:32.99 [7852:20788:0328/000832.989:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 01:06:37.19 [7852:20788:0328/010637.192:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 28, 2023 01:23:18.78 [7852:21208:0328/012318.750:ERROR:device_event_log_impl.cc(222)] [01:23:18.749] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 28, 2023 02:27:25.66 [7852:20788:0328/022725.668:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 02:56:04.77 [7852:20788:0328/025604.775:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 28, 2023 03:23:48.86 [7852:20788:0328/032348.864:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 03:54:09.11 [7852:20788:0328/035409.110:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 03:54:14.61 [7852:20788:0328/035414.611:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 13:22:33.93 [7852:20788:0328/132233.600:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 13:22:38.27 [7852:20788:0328/132238.275:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 28, 2023 13:22:38.28 [7852:20788:0328/132238.280:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 28, 2023 13:22:38.28 [7852:9428:0328/132238.280:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 28, 2023 13:22:38.28 [7852:20788:0328/132238.280:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 28, 2023 13:22:38.28 [7852:20788:0328/132238.280:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 28, 2023 13:22:44.29 [7852:20788:0328/132244.294:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 28, 2023 13:43:46.13 [7852:20788:0328/134346.130:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 14:05:12.46 [7852:20788:0328/140512.469:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 28, 2023 14:06:10.93 [7852:20788:0328/140610.930:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 14:06:16.52 [7852:20788:0328/140616.515:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 14:23:38.33 [7852:20788:0328/142338.334:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 28, 2023 14:23:43.39 [7852:20788:0328/142343.392:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 28, 2023 14:47:36.84 [7852:20788:0328/144736.846:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 15:00:47.86 [7852:20788:0328/150047.863:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 28, 2023 15:47:53.74 [7852:20788:0328/154753.743:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 28, 2023 16:38:12.76 [7852:21208:0328/163812.754:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 28, 2023 16:47:25.14 [7852:20788:0328/164725.144:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 19:24:48.41 [7852:20788:0328/192448.127:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 28, 2023 19:28:06.74 [7852:20788:0328/192806.731:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 19:28:07.10 [7852:20788:0328/192807.102:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -331
+Mar 28, 2023 19:40:30.92 [7852:21208:0328/194030.916:ERROR:device_event_log_impl.cc(222)] [19:40:30.918] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 28, 2023 20:01:34.73 [7852:20788:0328/200134.731:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 28, 2023 20:01:37.48 [7852:20788:0328/200137.482:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 29, 2023 24:27:52.33 [7852:20788:0329/002752.334:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 29, 2023 01:54:25.48 [7852:20788:0329/015425.483:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 29, 2023 02:52:28.45 [7852:20788:0329/025228.451:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 29, 2023 09:44:13.16 [7852:20788:0329/094413.163:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 29, 2023 12:19:49.78 [7852:20788:0329/121949.789:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 29, 2023 12:19:49.78 [7852:17168:0329/121949.789:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 29, 2023 12:19:49.79 [7852:17168:0329/121949.799:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 29, 2023 12:19:56.76 [7852:20788:0329/121956.769:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 29, 2023 12:19:56.77 [7852:5344:0329/121956.769:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 29, 2023 12:20:05.93 [7852:21208:0329/122005.934:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 29, 2023 12:35:35.25 [7852:20788:0329/123535.255:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
